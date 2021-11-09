@@ -1,10 +1,15 @@
-#include <string>
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
 #include <time.h>
 
+#include "picker.h"
+
 using namespace std; //I will fix this later, but for now this is what I know.
+
+int standardPick(string filename) {
+    
+}
 
 int main() {
     
