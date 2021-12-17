@@ -4,10 +4,10 @@
 #include <string>
 
 typedef struct Restaurant {
-    string name;
-    string url;
+    std::string name;
+    std::string url;
 };
 
-int standardPick(std::string filename);
-
+int filePick(std::string filename);
+int fileClean(std::string filename);
 #endif

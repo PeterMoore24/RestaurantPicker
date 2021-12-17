@@ -1,0 +1,13 @@
+13
+Doughbird;https://www.doordash.com/store/doughbird-phoenix-354273/
+Chic fil a;https://www.doordash.com/store/chick-fil-a-phoenix-16063/
+Pita jungle;https://www.doordash.com/store/chick-fil-a-phoenix-16063/
+The Vig Arcadia;https://www.doordash.com/store/the-vig-phoenix-38906/
+The henry;https://www.doordash.com/store/the-henry-phoenix-629571/
+Flower child;https://www.doordash.com/store/the-henry-phoenix-629571/
+North Italian;https://www.doordash.com/business/north-italia-10439/
+Ingos tasty food;https://www.doordash.com/store/ingo's-tasty-food-phoenix-12943/
+Cold beer and cheeseburgers;https://www.doordash.com/store/cold-beers-^&-cheeseburgers-phoenix-240698/
+Subway;https://www.doordash.com/store/subway-phoenix-16636/
+Einstein Bros;https://www.doordash.com/store/einstein-bros-bagels-phoenix-16424/
+Ohso Arcadia;https://www.doordash.com/store/ohso-brewery-phoenix-897581/
